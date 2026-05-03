@@ -1,7 +1,6 @@
 # pytrace-live
 
-[![PyPI Downloads](https://static.pepy.tech/badge/pytrace-live)](https://pepy.tech/projects/pytrace-live)
-
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/pytrace-live?period=total&units=INTERNATIONAL_SYSTEM&left_color=RED&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/pytrace-live)
 
 A lightweight Python CLI tool that traces function execution in real-time, showing execution times and highlighting slow functions as your code runs.
 
